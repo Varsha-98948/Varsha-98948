@@ -39,7 +39,7 @@
 
 </div>
 
-A progress tracker built around actually sticking with problems instead of pretending I'll remember what I solved three weeks later.
+A progress tracker built around actually sticking with problems instead of pretending I'll remember what I solved weeks later.
 
 <br>
 
