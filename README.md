@@ -34,7 +34,7 @@
 
 ### 🧩 GreenGrid
 
-**DSA progress tracking without making DSA feel like homework.**
+**DSA, but actually trackable.**
 <br>
 
 </div>
@@ -165,8 +165,6 @@ And then I'll build it.
 ## github things
 
 <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Varsha-98948&show_icons=true&hide_border=true&bg_color=0F0E0E&title_color=8F5664&text_color=D6CECA&icon_color=28533D&ring_color=541525" height="165" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha-98948&hide_border=true&background=0F0E0E&ring=28533D&fire=8F5664&currStreakLabel=8F5664&sideLabels=D6CECA&dates=746B68&currStreakNum=D6CECA&sideNums=D6CECA" height="165" />
 
