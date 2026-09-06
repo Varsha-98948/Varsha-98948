@@ -2,11 +2,14 @@
 
 # hey, i'm varsha.
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=17&duration=3200&pause=900&color=C83B5B&center=true&vCenter=true&width=720&lines=building+%E2%86%92+breaking+%E2%86%92+rebuilding;turning+random+ideas+into+things+that+actually+work;probably+starting+another+project+soon" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=3000&pause=900&color=8F5664&center=true&vCenter=true&width=700&lines=I+build+things.+I+break+things.+I+figure+them+out.;turning+%22wait...+what+if%3F%22+into+actual+projects;currently+trying+not+to+start+another+one" />
 
 <br>
 
-`computer engineering` · `software` · `ui/ux` · `ai` · `robotics`
+![Computer Engineering](https://img.shields.io/badge/Computer%20Engineering-163329?style=flat-square\&labelColor=0F0E0E\&logo=arduino\&logoColor=D6CECA)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-541525?style=flat-square\&labelColor=0F0E0E\&logo=stackblitz\&logoColor=D6CECA)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-163329?style=flat-square\&labelColor=0F0E0E\&logo=figma\&logoColor=D6CECA)
+![Idea Generator](https://img.shields.io/badge/Professional%20%22What%20If%3F%22%20Thinker-541525?style=flat-square\&labelColor=0F0E0E\&logo=lightbulb\&logoColor=D6CECA)
 
 </div>
 
@@ -14,48 +17,82 @@
 
 ---
 
-## currently building
+<div align="center">
+
+## currently on the desk
+
+</div>
+
+<br>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 🌲 GREEN // GRID
+<div align="center">
 
-**DSA, but slightly less painful.**
+### 🧩 GreenGrid
 
-A DSA progress tracker built around actually sticking with problems instead of pretending I'll remember what I solved three weeks ago.
+**DSA progress tracking without making DSA feel like homework.**
+<br>
+
+</div>
+
+A progress tracker built around actually sticking with problems instead of pretending I'll remember what I solved three weeks later.
 
 <br>
 
-`JAVA` · `SPRING BOOT` · `POSTGRESQL` · `SUPABASE`
+<div align="center">
 
-<br><br>
+`JAVA` · `SPRING BOOT` · `SUPABASE` · `RENDER` · `GITHUB PAGES`
+
+<br>
+
+<a href="https://varsha-98948.github.io/GreenGrid/">
+<img src="https://img.shields.io/badge/↗%20LIVE%20DEMO-163329?style=for-the-badge&labelColor=0F0E0E" />
+</a>
 
 <a href="https://github.com/Varsha-98948/GreenGrid">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6B1F36?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20REPOSITORY-541525?style=for-the-badge&labelColor=0F0E0E" />
 </a>
+
+</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ☾ LUNA // OPS
+<div align="center">
 
-**lunar missions, rovers & questionable amounts of JavaScript.**
+### ☾ LunaOps
 
-A lunar mission simulator built around rover navigation, terrain, and mission planning.
+**Simulating how rovers find their way on the Moon.**
+<br>
+
+</div>
+
+A simulation platform exploring rover navigation, terrain constraints, telemetry and autonomous movement strategies.
 
 <br>
 
-`JAVASCRIPT` · `THREE.JS` · `SIMULATION`
+<div align="center">
 
-<br><br>
+`JAVASCRIPT` · `THREE.JS` · `HTML` · `CSS`
+`VERCEL`
+
+<br>
+
+<a href="https://lunaops.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20LIVE%20DEMO-541525?style=for-the-badge&labelColor=0F0E0E" />
+</a>
 
 <a href="https://github.com/Varsha-98948/LunaOps">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-6B1F36?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/⌘%20REPOSITORY-163329?style=for-the-badge&labelColor=0F0E0E" />
 </a>
+
+<br>
+</div>
 
 </td>
 
@@ -64,92 +101,48 @@ A lunar mission simulator built around rover navigation, terrain, and mission pl
 
 <br>
 
-> these are the ones i'm putting in the spotlight right now.
-> there are more. this page just has limited screen real estate and i have limited attention span.
+<div align="center">
 
-<br>
+`two projects currently on the desk.`
+`there are more. they're just currently somewhere in the repository graveyard.`
 
----
-
-## the rest of the plot
-
-I like projects that start with:
-
-> **“wait... could we actually build this?”**
-
-and somehow end with:
-
-> **“...okay, it actually works.”**
-
-I build things.
-I break things.
-I figure them out.
-
-Sometimes I care way too much about how something looks.
-
-Sometimes I add a feature that absolutely did not need to exist.
-
-Usually both.
-
-<br>
-
----
-
-## things i know how to annoy
-
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,react,tailwind,bootstrap,spring,fastapi,mysql,postgres,supabase,docker,git,github,vite&theme=dark" />
-
-<br><br>
-
-`some are favourites` · `some currently learning` · `some have caused emotional damage`
-
-<br>
-
----
-
-## unexpected side quest
-
-<img src="https://img.shields.io/badge/ROBOTICS-4A1023?style=flat-square&logo=arduino&logoColor=D6B56E"/>
-&nbsp;
-<img src="https://img.shields.io/badge/SPACE_TECH-210B13?style=flat-square&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/WHY_NOT%3F-6C1F3D?style=flat-square&logoColor=D6B56E"/>
-
-<br><br>
-
-Robotics was never really the plan.
-
-**And yet somehow it keeps showing up.**
-
-<br>
-
-`at this point i'm just accepting the plot.`
-
-<br>
+</div>
 
 ---
 
 <div align="center">
 
-## if you've made it this far
+## things i like annoying
+
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,mysql,postgres,spring,threejs,firebase&perline=12" />
 
 <br>
+
+<img src="https://skillicons.dev/icons?i=supabase,nodejs,git,github,androidstudio,streamlit,fastapi,tailwind,vercel,render,cursor,openai&perline=12" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`build stuff` · `break stuff` · `figure out why` · `repeat`
+
+</div>
+
+<br>
+
+---
+
+## if you've made it this far
 
 you probably want to know what happens next.
 
-<br>
-
 Honestly?
-
-<br>
 
 **No idea.**
 
-<br>
-
 Probably another project.
-
-<br>
 
 Probably another:
 
@@ -157,28 +150,39 @@ Probably another:
 
 And then I'll build it.
 
+<br>
+
+<div align="center">
+
+`which is probably how we got here in the first place.`
+
+</div>
+
+---
+
+<div align="center">
+
+## github things
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Varsha-98948&show_icons=true&hide_border=true&bg_color=0F0E0E&title_color=8F5664&text_color=D6CECA&icon_color=28533D&ring_color=541525" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Varsha-98948&hide_border=true&background=0F0E0E&ring=28533D&fire=8F5664&currStreakLabel=8F5664&sideLabels=D6CECA&dates=746B68&currStreakNum=D6CECA&sideNums=D6CECA" height="165" />
+
 <br><br>
 
-`made with code, questionable decisions, and way too many ideas.`
 
-<br><br>
-
-<a href="https://github.com/Varsha-98948">
-<img src="https://img.shields.io/badge/GITHUB-09090B?style=flat-square&logo=github&logoColor=EDEDED"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/varsha-jairam-6b0738358">
-<img src="https://img.shields.io/badge/LINKEDIN-210B13?style=flat-square&logo=linkedin&logoColor=C83B5B"/>
-</a>
-&nbsp;
 <a href="https://varshajairam.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-071A13?style=flat-square&logo=vercel&logoColor=42D6A1"/>
-</a>
-&nbsp;
-<a href="mailto:Varsha.98948@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-4A1023?style=flat-square&logo=gmail&logoColor=D6B56E"/>
+
+<img src="https://img.shields.io/badge/SEE%20THE%20FULL%20VERSION-541525?style=for-the-badge&labelColor=0F0E0E" />
+
 </a>
 
 <br><br>
+
+`made with code, questionable decisions, and an aggressively large backlog of ideas.`
+
+<br>
 
 </div>
